@@ -1,3 +1,9 @@
+---
+layout: home
+title:"software Eng. lecture note"
+permalink: /docs/softwareEng2026
+---
+
 # ソフトウェア開発について
 
 
